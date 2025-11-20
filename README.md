@@ -415,4 +415,12 @@ A: Running a component at higher frequency than rated. Increases performance but
 ---
 
 **Course Navigation:**  
-← Previous: [Chapter 12 - Parity Bits](../ch12_parity_bits/) | Next: [Chapter 14 - Transmission Types](../ch14_transmission_types/) →
+← Previous: [Chapter 12 - Parity Bits](../ch12_parity_bits/) | Next: [Chapter 14 - Transmission Types](../ch14_transmission_types/)
+
+---
+
+## Authorship
+Authored by Maxwell Hauser on November 19, 2025
+
+## License
+MIT License
